@@ -1,4 +1,4 @@
-### Hi, Hola, Salam, Konichiwa, Nihao, Buon giorno, Jambo 👋
+### Hi, Hola, Shalom, Konichiwa, Nihao, Buon giorno, Jambo 👋
 
 <!--
 **laurenlucero/laurenlucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

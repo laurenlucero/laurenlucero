@@ -3,7 +3,7 @@
 
 ## Hi, Hola, Shalom, Konichiwa, Nihao, Buon giorno, Jambo 👋 
 
-- 🔭 I’m currently working on strengthening my front-end engineering skills (HTML, CSS, JavaScript, React) and a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston)
+- 🔭 I’m currently working on strengthening my front-end engineering skills (HTML, CSS, JavaScript, React) & a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston)
 - 🌱 I’m currently learning Gatsby, Node, and more...
 - 👯 I’m looking to collaborate on open source projects with code newbies & women who code
 - 🤔 I’m looking for help with:

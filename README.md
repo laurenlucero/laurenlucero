@@ -1,17 +1,18 @@
-### I don’t know your name, we might use different languages...
-### We may not be the same, but I reach out my hand to you and I say…
-
-## Hi, Hola, Shalom, Konichiwa, Nihao, Buon giorno, Jambo 👋 
-
-- 🔭 I’m currently working on my front-end engineering skills (HTML, CSS, JavaScript, React) & a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston)
-- 🌱 I’m learning Gatsby, Node, and more...
-- 👯 I’m looking to collaborate on open source projects with code newbies & women who code
-- 🤔 I’m looking for help with:
-  - cultivating diverse & inclusive community in tech
-  - developing a prototype for a community building app called [Chix Chat](https://github.com/ChixChat)
-  - finding a remote software development role where my continued growth is supported & unique experience is valued
-- 💬 Ask me how mindfulness practice helped me to be a better programmer!
-- 📫 How to reach me:
-connect with me on [LinkedIn](https://www.linkedin.com/in/laurenlucero/) or follow @lauren_breathes on Twitter
-- 😄 Pronouns: ella / her (yo hablo español)
-- ⚡ Fun fact: Before I learned to program at [Turing School of Software & Design](https://turing.io/), I taught elementary school for 8 years... this heading is a children's song that gets stuck in my head when I see the word 'Hi'!
+# Hello, World 👋 🌎   
+- My name is Lauren and my pronouns are ella / her (yo hablo español) 🗣️
+- I am a [Turing School of Software & Design](https://turing.io/) front-end engineering graduate 🎓️
+  - My Tech Stack Includes:
+    - Languages: HTML, CSS, JavaScript, GraphQL 
+    - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
+    - Frameworks: Jest, Mocha, React Native 
+    - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack
+    - Workflow: Agile, Asynchronous, CI/CD, Git, Google, Remote Teams
+- I am a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩‍💻
+- Before learning software development, I was an elementary educator 👩‍🏫 
+- I also practice and teach [yoga](https://app.ubindi.com/Lauren.Lucero) 🧘‍♀
+- I would love to collaborate on open source projects with code newbies & women who code 💻
+- I’m looking for a remote software development role where my continued growth is supported & my unique experience is valued 🆙
+- Let's connect 🔗
+  - Check out some of my project repos and feel free to leave a comment
+  - Connect with me on [LinkedIn](https://www.linkedin.com/in/laurenlucero/)
+  - Read my developer [blog](https://laurenbreathes.hashnode.dev/)

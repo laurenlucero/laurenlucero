@@ -4,6 +4,8 @@ My name is Lauren & my pronouns are ella / her (se habla español) 🗣️
 
 I am a [Turing School of Software & Design](https://turing.io/) front-end engineering grad & a proud mentor 🎓️ 
 
+I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
+
 My Tech Stack Includes:
    - Languages: HTML, CSS, JavaScript, GraphQL 
    - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
@@ -11,11 +13,9 @@ My Tech Stack Includes:
    - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack
    - Workflow: Agile, Asynchronous, CI/CD, Git, Google, Remote Teams
 
-I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
-
 Before learning software development, I was an elementary educator 👩🏻‍🏫 
 
-I practice and [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍♀️ 
+I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍♀️ 
 
 I'd love to collaborate on open source projects with code newbies & women who code 💻 
 

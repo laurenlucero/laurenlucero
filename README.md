@@ -26,3 +26,7 @@ Let's connect 🔗
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/laurenlucero/)
   - Read my developer [blog](https://laurenbreathes.hashnode.dev/)
   - [Tweet @ me](https://twitter.com/lauren_breathes)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenlucero&count_private=true&show_icons=true&theme=dracula&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenlucero&show_icons=true&theme=dracula)

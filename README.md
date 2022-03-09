@@ -6,7 +6,7 @@ I am a [Turing School of Software & Design](https://turing.io/) front-end engine
 
 I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
 
-My Tech Stack Includes:
+My Ever Evolving Tech Stack Includes:
    - Languages: HTML, CSS, JavaScript, GraphQL 
    - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
    - Frameworks: Jest, Mocha, React Native 
@@ -17,9 +17,9 @@ Before learning software development, I was an elementary educator 👩🏻‍�
 
 I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍♀️ 
 
-I'd love to collaborate on open source projects with code newbies & women who code 💻 
+I love to collaborate on open source projects with code newbies & women who code 💻 
 
-I am seeking a remote software development role where my unique experience is valued & growth is supported ✨ 
+~~I am seeking a remote software development role where my unique experience is valued & growth is supported ✨~~ I found a digital by default role where my experience is valued & growth is supported at [Shopify](https://www.shopify.com/) 🚀
 
 Let's connect 🔗
   - Check out some of my projects while you're here

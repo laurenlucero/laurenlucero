@@ -19,7 +19,8 @@ I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍
 
 I love to collaborate on open source projects with code newbies & women who code 💻 
 
-~~I am seeking a remote software development role where my unique experience is valued & growth is supported ✨~~ I found a digital by default role where my experience is valued & growth is supported at [Shopify](https://www.shopify.com/) 🚀
+~~I am seeking a remote software development role where my unique experience is valued & growth is supported ✨~~ 
+I found a digital by default role where my experience is valued & growth is supported at [Shopify](https://www.shopify.com/) 🚀
 
 Let's connect 🔗
   - Check out some of my projects while you're here

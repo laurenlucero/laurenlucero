@@ -2,14 +2,14 @@
 
 My name is Lauren & my pronouns are ella / her (se habla español) 🗣️ 
 
-I am a [Turing School of Software & Design](https://turing.io/) front-end engineering grad & a proud mentor 🎓️ 
+I am a [Turing School of Software & Design](https://turing.io/) front-end engineering grad & proud mentor 🎓️ 
 
 I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
 
 My Ever Evolving Tech Stack Includes:
-   - Languages: HTML, CSS, JavaScript, GraphQL 
+   - Languages: HTML, CSS, JavaScript, GraphQL, Ruby, SQL 
    - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
-   - Frameworks: Jest, Mocha, React Native 
+   - Frameworks: Jest, Mocha, React Native, Rails 
    - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack
    - Workflow: Agile, Asynchronous, CI/CD, Git, Google, Remote Teams
 

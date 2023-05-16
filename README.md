@@ -10,7 +10,7 @@ My Ever Evolving Tech Stack Includes:
    - Languages: HTML, CSS, JavaScript, GraphQL, Ruby, SQL 
    - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
    - Frameworks: Jest, Mocha, React Native, Rails 
-   - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack
+   - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack, RSpec, Splunk
    - Workflow: Agile, Asynchronous, CI/CD, Git, Google, Remote Teams
 
 Before learning software development, I was an elementary educator 👩🏻‍🏫 
@@ -19,8 +19,7 @@ I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍
 
 I love to collaborate on open source projects with code newbies & women who code 💻 
 
-~~I am seeking a remote software development role where my unique experience is valued & growth is supported ✨~~ 
-I found a digital by default role where my experience is valued & growth is supported at [Shopify](https://www.shopify.com/) 🚀
+I am seeking a remote software development role where my unique experience is valued & growth is supported ✨
 
 Let's connect 🔗
   - Check out some of my projects while you're here

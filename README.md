@@ -7,11 +7,16 @@ I am a [Turing School of Software & Design](https://turing.io/) front-end engine
 I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
 
 My Ever Evolving Tech Stack Includes:
-   - Languages: HTML, CSS, JavaScript, GraphQL, Ruby, SQL 
-   - Libraries: Chai.js, jQuery, React, React Router, React Testing Library
-   - Frameworks: Jest, Mocha, React Native, Rails 
-   - Tools: Babel, ESLint, Node.js, NPM, React Hooks, Webpack, RSpec, Splunk
-   - Workflow: Agile, Asynchronous, CI/CD, Git, Google, Remote Teams
+- Languages: HTML, CSS, JavaScript, TypeScript, Ruby, GraphQL, SQL
+- Front-end Libraries: React, React Router, React Testing Library, jQuery
+- Back-end Frameworks: Ruby on Rails, RSpec
+- Mobile Development: React Native
+- Testing Frameworks: Chai.js, Cypress, Jest, Mocha
+- Database Tools: SQL, Splunk
+- Build Tools: Babel, ESLint, Node.js, Webpack
+- Deployment: CI/CD, Heroku
+- Version Control: Git, GitHub
+- Agile/Scrum: Registered Scrum Master
 
 Before learning software development, I was an elementary educator 👩🏻‍🏫 
 

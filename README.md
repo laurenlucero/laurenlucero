@@ -30,5 +30,3 @@ Let's connect 🔗
   - Check out some of my projects while you're here
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/laurenlucero/)
   - Read my developer [blog](https://laurenbreathes.hashnode.dev/)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenlucero&show_icons=true&theme=dracula)

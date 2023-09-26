@@ -2,6 +2,8 @@
 
 My name is Lauren & my pronouns are ella / her (se habla español) 🗣️ 
 
+I am seeking a remote or Boston-based software development role where my unique experience is valued & growth is supported ✨
+
 I am a [Turing School of Software & Design](https://turing.io/) front-end engineering grad & proud mentor 🎓️ 
 
 I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
@@ -19,11 +21,9 @@ My Ever Evolving Tech Stack Includes:
 
 Before learning software development, I was an elementary educator 👩🏻‍🏫 
 
-I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍♀️ 
-
 I love to collaborate on open-source projects with code newbies & women who code 💻 
 
-I am seeking a remote or Boston based software development role where my unique experience is valued & growth is supported ✨
+I also practice & [teach yoga](https://app.ubindi.com/Lauren.Lucero) 🧘🏻‍♀️ 
 
 Let's connect 🔗
   - Check out some of my projects while you're here

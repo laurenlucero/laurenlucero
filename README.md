@@ -9,7 +9,7 @@ I am a [Turing School of Software & Design](https://turing.io/) front-end engine
 I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
 
 My Ever Evolving Tech Stack Includes:
-- Languages: HTML, CSS, JavaScript, GraphQL, Ruby, TypeScript	
+- Languages: HTML, CSS, JavaScript, GraphQL, Ruby, TypeScript, Python
 - Front-end: jQuery, React, React Router, React Testing Library 	
 - Back-end: Ruby on Rails, RSpec 	
 - Mobile: React Native

@@ -2,11 +2,7 @@
 
 My name is Lauren & my pronouns are ella / her (se habla español) 🗣️ 
 
-I am seeking a remote or Boston-based software development role where my unique experience is valued & growth is supported ✨
-
-I am a [Turing School of Software & Design](https://turing.io/) front-end engineering grad & proud mentor 🎓️ 
-
-I'm also a programming lead for [Women Who Code Boston](https://www.womenwhocode.com/boston) 👩🏻‍💻 
+I am a Software Engineer at [TRAILS](https://trailstowellness.org/) 🧡 
 
 My Ever Evolving Tech Stack Includes:
 - Languages: HTML, CSS, JavaScript, GraphQL, Ruby, TypeScript, Python
@@ -18,6 +14,8 @@ My Ever Evolving Tech Stack Includes:
 - Testing: Chai.js, Cypress, Jest, Mocha 	
 - Version Control: Git, GitHub
 - Agile: Registered Scrum Master
+
+I am a [Turing School of Software & Design](https://turing.edu/) front end engineering grad & mentor 🎓️
 
 Before learning software development, I was an elementary educator 👩🏻‍🏫 
 
